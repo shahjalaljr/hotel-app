@@ -75,14 +75,8 @@
 
 @media all and (max-width: 400px){
 	.new_page_items {
-		-webkit-box-orient: vertical;
-		-webkit-box-direction: normal;
-		    -ms-flex-direction: column;
-		        flex-direction: column;
-		-webkit-box-align: start;
-		    -ms-flex-align: start;
-		        align-items: flex-start;
-	}
+	padding: 20px 10px;
+}
 	.new_page_right{
 		margin-top: 15px;
 	}
